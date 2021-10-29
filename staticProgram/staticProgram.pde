@@ -7,13 +7,13 @@ String b = "said";
 String c = " \thello\t"; //char escapes
 String d = "to";
 String e = "me";
-String f = ".";
+char f = '.';
 
 println(a, b, c, d, e + f);
 
 //Counting Phrase
-String g = "Mr.";
-String h = "Mercer";
+String g = "Celine";
+String h = "Pasutti";
 String i = "counts";
 String j = "to";
 String k = "10"; //string var, no adding allowed
