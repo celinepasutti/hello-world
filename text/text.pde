@@ -8,11 +8,11 @@
   fullScreen ();
 
 //Fonts frm OS!
-  /*
+/*
     String[] fontList = PFont.list(); //lists all font avail. on sys.
     printArray(fontList); //lists all to choose from
-  */
-    titleFont = createFont ("Harrington", 55);
+*/
+    titleFont = createFont ("Comic Sans MS Italic", 55);
 
 
 
